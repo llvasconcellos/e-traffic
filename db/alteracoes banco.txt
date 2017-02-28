@@ -1,0 +1,2 @@
+ALTER TABLE `twatch_ips` ADD `cidade` VARCHAR( 100 ) NOT NULL DEFAULT 'u',
+ADD `estado` CHAR( 2 ) NOT NULL DEFAULT 'u';
